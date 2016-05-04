@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=nsa
+Description=An NSA style cool bootsplash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/nsa
+ScriptFile=/usr/share/plymouth/themes/nsa/nsa.script
